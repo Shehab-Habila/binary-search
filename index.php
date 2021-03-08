@@ -7,7 +7,7 @@ Shehab-Habila
 Binary search
 ---------------
 - it's good for big arrays.
-- sorted array must be sorted.
+- the array must be sorted.
 - Best case: steps=1
 */
 
